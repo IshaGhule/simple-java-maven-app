@@ -1,3 +1,5 @@
+# Sum of 1 to 10 numbers.
+
 #!/bin/bash
 
 sum=0
